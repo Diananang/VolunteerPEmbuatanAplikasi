@@ -4,3 +4,4 @@ Repository ini digunakan sebagai sayembara pencarian volunteer untuk pembuatan a
 *Nama Lengkap, [Alamat Portofolio]
 
 Berikut daftar Volunteer yang diterima:
+* Try Diana Yunita, [Linkedin](https://www.linkedin.com/in/try-diana-yunita-66b457207)
